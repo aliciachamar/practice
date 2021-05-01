@@ -7,3 +7,5 @@ var shelter = {
     console.log("Email us at meetafriend@waywardpets.com to make an appointment to meet your new friend.");
   }
 };
+
+let name = "Alicia";
